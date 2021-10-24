@@ -1,1 +1,2 @@
-My First Python Project.
+My First Python Project with Tkinter.
+Its A simple text Editor.
